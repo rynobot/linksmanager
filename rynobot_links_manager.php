@@ -10,7 +10,7 @@ Author URI: http://ryanott.net
 License: GPL2
 */
 
-	//Activate the Link Manager built in to the WordPress admin
-	add_filter( 'pre_option_link_manager_enabled', '__return_true' );
+//Activate the Link Manager built in to the WordPress admin
+add_filter( 'pre_option_link_manager_enabled', '__return_true' );
 
 ?>
