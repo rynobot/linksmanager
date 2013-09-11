@@ -1,4 +1,4 @@
 Rynobot Links Manager
 
-Activates the WordPress Links manager depreciated since v3.5.
+Activates the WordPress Links manager deprecated since v3.5.
 =================================================================
