@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: Rynobot Link Manager
-Plugin URI: http://ryanott.net/wordpress-plugins/rynobot-link-manager/
+Plugin URI: http://ryanott.net/wordpress-plugins/
 Description: This plugin activates WordPress Links Manager that was degraded after WordPress 3.5.
 Version: 0.1
 Author: Ryan Ott
